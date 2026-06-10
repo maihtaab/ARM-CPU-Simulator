@@ -1,4 +1,4 @@
-# CP216 CPU Simulator Project by Afnan (Meenu) Khan, Manha Malik, and Maihtaab Sidhu #
+# CP216 CPU Simulator Project by Maihtaab Sidhu #
 
 from cpu import CPU
 import config
